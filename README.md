@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screen Shot 2023-10-13 at 12 52 29](https://github.com/muhamadalfarisy98/movie_searcher/assets/23287190/e4b3c77a-2c71-458a-b33c-a9cbaa2d330f)
+
+
+
 ## Referensi
 https://www.youtube.com/watch?v=QV4qKaeEf9c
 
